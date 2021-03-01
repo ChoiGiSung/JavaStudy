@@ -1,6 +1,7 @@
 # JavaStudy
 whiteship님 온라인 study  
-https://github.com/whiteship/live-study
+https://github.com/whiteship/live-study  
+ssonsh님 글은 좋은게 많다.  
 
 백기선님 유튜브  
 https://www.youtube.com/user/whiteship2000  
